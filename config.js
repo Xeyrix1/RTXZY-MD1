@@ -5,20 +5,20 @@
 //misal gua lupa nambah atau typo benerin aja bre gua pusing njir awokawok 
 
 //Global Owner//
-global.owner = ['6281395861695']  // isi jika perlu
-global.mods = ['6281395861695']   // isi jika perlu
-global.prems = ['6281395861695']  // isi jika perlu
+global.owner = ['6281280020649']  // isi jika perlu
+global.mods = ['6281280020649']   // isi jika perlu
+global.prems = ['6281280020649']  // isi jika perlu
 
 //Nomor Owner & payment//
-global.nameowner = 'TioXd' // isi nama kalian bebas
-global.numberowner = '6281395861695' // isi ini untuk mengendalikan bot
-global.dana = '6281395861695' // isi dengan nomor dana yg kamu punya 
-global.pulsa = '6281395861695' // isi dengan nomor pulsa hp kalian
-global.gopay = '6281395861695'
+global.nameowner = 'Xeyrix' // isi nama kalian bebas
+global.numberowner = '6281280020649' // isi ini untuk mengendalikan bot
+global.dana = '6287877155388' // isi dengan nomor dana yg kamu punya 
+global.pulsa = '6281280020649' // isi dengan nomor pulsa hp kalian
+global.gopay = '6281280020649'
 
 //Nama Bot & Grouplink//
-global.namebot = 'RTXZY-MD'
-global.gc = 'https://chat.whatsapp.com/D6BZVRSymWaFU28t2lxaO0'
+global.namebot = 'XeyrixBot'
+global.gc = 'https://chat.whatsapp.com/EiG6eXxAFHSHCB8kLWZPSA'
 global.web = 'https://github.com/BOTCAHX' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.instagram = 'https://instagram.com/prm2.0'
 
